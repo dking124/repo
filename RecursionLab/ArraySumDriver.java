@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Darren King
+ *
+ */
 public class ArraySumDriver {
 	private final static int ARRAY_SIZE = 6;
 
